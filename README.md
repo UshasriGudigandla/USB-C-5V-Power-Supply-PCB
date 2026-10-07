@@ -6,6 +6,20 @@ This project presents the design and PCB implementation of a compact USB-C 5V po
 
 The design accepts 5V power through a USB-C connector and provides a protected and filtered 5V output. The PCB includes input protection, decoupling capacitors, transient voltage protection and USB-C CC resistors.
 
+## Project Images
+
+### Schematic
+
+![USB-C 5V Power Supply Schematic](schematic.png)
+
+### PCB Layout
+
+![USB-C 5V Power Supply PCB Layout](PCB-layout.png)
+
+### 3D PCB View
+
+![USB-C 5V Power Supply 3D View](3B%20PCB%20image.png)
+
 ## Features
 
 - USB-C 5V power input
